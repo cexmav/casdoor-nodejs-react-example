@@ -1,7 +1,7 @@
 export const config = {
-  serverUrl: "https://door.casdoor.com",
-  clientId: "014ae4bd048734ca2dea",
-  organizationName: "casbin",
-  appName: "app-casnode",
+  serverUrl: "https://id.gaugau.io",
+  clientId: "496869095e93df96018c",
+  organizationName: "Maverick",
+  appName: "app-dev",
   redirectPath: "/callback", // in accordance with casdoor configuration
 };
