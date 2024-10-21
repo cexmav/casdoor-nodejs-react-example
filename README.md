@@ -1,5 +1,7 @@
 <h1 align="center" style="border-bottom: none;">Casdoor NodeJS React Example</h1>
 
+## User sample: user001/QWerty!@3
+
 ## Demo
 
 ![react-express-illustration.gif](public/demo.gif)
